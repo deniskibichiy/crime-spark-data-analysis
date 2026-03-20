@@ -1,1 +1,3 @@
-chicago_crimes.csv
+/data/chicago_crimes.csv
+output/
+__pycache__/
