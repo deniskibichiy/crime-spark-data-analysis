@@ -34,7 +34,7 @@ The project follows a standard Data Engineering lifecycle: **Ingestion → Clean
 │   └── schema.py       # StructType schema definitions
 └── README.md           # Documentation
 ```
-## ⚙️ Data Pipeline Stages
+## Data Pipeline Stages
 
 ### 1. Ingestion & Schema
 We load **8.5M+ rows** using a **predefined schema** to ensure data integrity and improve processing speed.
