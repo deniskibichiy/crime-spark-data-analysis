@@ -54,3 +54,17 @@ We load **8.5M+ rows** using a **predefined schema** to ensure data integrity an
 - **Visualization:** Generated and exported a **Bar Chart of the Top 10 Crime Types** to the `/output` directory.
 
 ---
+## System Environment
+- **OS:** Ubuntu 22.04 / 24.04 LTS
+- **Shell:** Bash / Zsh
+- **Java:** OpenJDK 11 or 17 (Required for Spark)
+- **Memory:** 8GB RAM minimum (4GB allocated to Spark Driver)
+---
+## Dependencies
+```bash
+pyspark
+matplotlib
+pandas
+```
+
+
